@@ -17,5 +17,5 @@ Task:
 
 ✔ Using cloud front make it globally available in whole world.
 
-Thank you Vimal Daga for giving such use case to work on!👏
+Link: https://www.linkedin.com/pulse/launching-webapp-aws-cloud-ec2-ebc-s3-cloudfront-using-khanday/
 
